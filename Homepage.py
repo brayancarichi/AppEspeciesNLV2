@@ -161,7 +161,7 @@ with st.expander("See source code"):
         add_legend=True,
 
     )
-    m2.add_raster(raster, colormap="BuGn", layer_name="DEM")
+    m2.add_raster(raster, colormap="BuGn", layer_name="Distribución_Potencial")
 
 st.markdown(multi2)
 m.to_streamlit(height=800)
