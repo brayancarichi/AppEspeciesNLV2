@@ -8,3 +8,4 @@ leafmap
 fiona
 rasterio
 xarray
+localtileserver
