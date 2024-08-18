@@ -10,5 +10,4 @@ rasterio
 xarray
 localtileserver
 psutil
-leafmap.colormaps
-leafmap.foliumap
+
