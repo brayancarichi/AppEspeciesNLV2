@@ -83,7 +83,7 @@ with st.expander("See source code"):
         logo = 'Imagenes/Zorra.jpg'
         grafico = c
         print(seleccionado)
-        raster = 'Rasters/Distribucion_Aguila.tifh'
+        raster = 'Rasters/Distribucion_Aguila.tif'
         enlace = link_venado
 
     elif opcion == 'Tortuga del Desierto':
